@@ -288,3 +288,39 @@ body {
   text-align: center;
   margin: 10px;
 }
+@media only screen and (max-width: 1920px) {
+  .modal , .modal-play{
+    top: 300px;
+    left: 650px;
+    
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  .modal , .modal-play{
+    top: 300px;
+    left: 600px;
+    
+  }
+}
+@media only screen and (max-width: 1440px) {
+  .modal , .modal-play{
+    top: 300px;
+    left: 450px;
+    
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .modal , .modal-play{
+    top: 300px;
+    left: 350px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .modal , .modal-play{
+    top: 280px;
+    left: 300px;
+    width: 350px;
+    height: 250px;
+  }
+}
