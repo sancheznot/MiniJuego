@@ -295,7 +295,6 @@ body {
     
   }
 }
-
 @media only screen and (max-width: 1600px) {
   .modal , .modal-play{
     top: 300px;
